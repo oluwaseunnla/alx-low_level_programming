@@ -1,8 +1,13 @@
 #include <stdio.h>
 
+/**
+ * main is the entry point to this code
+ *
+ * this returns a value 0
+ */
+
 int main(void)
 {
-	char mystr[] = "Programming is like building a multilingual puzzle";
-	puts(mystr);
-	return(0);
+	puts("\"Programming is like building a multilingual puzzle");
+	return (0);
 }
