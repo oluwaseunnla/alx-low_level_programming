@@ -1,4 +1,4 @@
-#include "4-isalpha.c"
+#include "main.h"
 
 /**
  *_isalpha - check for lower case letter
