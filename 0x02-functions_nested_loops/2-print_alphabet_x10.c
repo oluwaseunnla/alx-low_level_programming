@@ -3,6 +3,8 @@
 /**
  * print_alphabet_x10 - Entry point
  *
+ *print_alphabet - produces the alphabet
+ *
  * return: 0 (success)
  */
 
@@ -26,4 +28,4 @@ void print_alphabet_x10(void)
 		print_alphabet();
 		i++;
 	}
-}	
+}
