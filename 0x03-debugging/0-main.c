@@ -1,8 +1,9 @@
 #include "main.h"
 
 /**
- *main - Entry point
- *Return: 0 (success)
+ * main - Entry point
+ * Description print positive or negative
+ * Return: Always 0 (success)
  */
 
 int main(void)
