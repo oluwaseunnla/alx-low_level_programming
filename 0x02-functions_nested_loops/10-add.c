@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
- *add - entry point that adds 2 numbers
- *Returns: 0 (success)
+ *add - returns the sum
+ *Return: 0 (success)
  *@a: are number input parameter to the function
  *@b: is thr second input
  */
