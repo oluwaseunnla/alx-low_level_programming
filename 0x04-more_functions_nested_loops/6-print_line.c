@@ -4,7 +4,6 @@
  * print_line - Entry point
  * @n: the number of lines to be printed
  */
-
 void print_line(int n)
 {
 	if (n <= 0)
