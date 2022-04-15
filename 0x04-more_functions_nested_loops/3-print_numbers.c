@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * print_number - Entry point
+ * print_numbers - Entry point
  */
 
 void print_numbers(void)
