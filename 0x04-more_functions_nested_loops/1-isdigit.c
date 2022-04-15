@@ -3,7 +3,7 @@
 /**
  * _isdigit - entry point
  * @c: variable to check
- * Return 0 if c is not 0-9 else return 1
+ * Return: 0 if c is not 0-9 else return 1
  */
 
 int _isdigit(int c)
