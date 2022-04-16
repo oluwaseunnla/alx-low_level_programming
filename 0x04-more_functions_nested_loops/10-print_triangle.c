@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * print_trianglr - a function that print
+ * print_triangle - a function that print
  * @size: An input integer
  */
 
