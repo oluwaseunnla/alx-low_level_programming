@@ -3,8 +3,8 @@
 /**
  * print_trianglr - a function that print
  * @size: An input integer
- * Return: Always 0
  */
+
 void print_triangle(int size)
 {
 	int i = 0, j, n = size - 1;
