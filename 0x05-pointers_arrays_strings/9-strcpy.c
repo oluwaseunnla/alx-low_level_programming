@@ -4,6 +4,7 @@
  * _strcpy - main entry
  * @dest: first params
  * @src: second params
+ * Return: copy of string
  */
 
 char *_strcpy(char *dest, char *src)
