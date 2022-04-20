@@ -17,7 +17,7 @@ void print_arrary(int *a, int n)
 
 		if (i != n)
 		{
-			printtf(", ");
+			printf(", ");
 		}
 	}
 	printf("\n");
