@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * put_half - Entry
+ * puts_half - Entry
  * @str: only parameter
  */
 
@@ -18,7 +18,7 @@ void puts_half(char *str)
 	{
 		int half;
 
-		for (half = i / 2; half <= i; half++)
+		for (half = i / 2; half < i; half++)
 		{
 			_putchar(str[half]);
 		}
@@ -28,7 +28,7 @@ void puts_half(char *str)
 	{
 		int n;
 
-		for (n = (i - 1) / 2; n <= i; n++)
+		for (n = (i - 1) / 2; n < i; n++)
 		{
 			_putchar(str[n]);
 		}
