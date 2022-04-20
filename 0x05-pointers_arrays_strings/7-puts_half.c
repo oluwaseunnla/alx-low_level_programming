@@ -16,21 +16,21 @@ void puts_half(char *str)
 
 	if (i % 2 == 0)
 	{
-		int half = i / 2;
+		int half;
 
-		for (half; half <= i; half++)
+		for (half = i / 2; half <= i; half++)
 		{
-			_putchar(i[half]);
+			_putchar(str[half]);
 		}
 		_putchar('\n');
 	}
 	else
 	{
-		int n = (i - 1) / 2;
+		int n;
 
-		for (n; n <= i; n++)
+		for (n = (i - 1) / 2; n <= i; n++)
 		{
-			_putchar(i[n]);
+			_putchar(str[n]);
 		}
 		_putchar('\n');
 	}
