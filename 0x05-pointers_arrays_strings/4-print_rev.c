@@ -13,11 +13,10 @@ void print_rev(char *s)
 	{
 		i++;
 	}
-	int max = i;
 
-	for (max; max >= 0; max--)
+	for (i; i >= 0; i--)
 	{
-		_putchar(s[max]);
+		_putchar(s[i]);
 	}
 	_putchar('\n');
 }
