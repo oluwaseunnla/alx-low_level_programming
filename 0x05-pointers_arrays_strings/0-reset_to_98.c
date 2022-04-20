@@ -2,7 +2,7 @@
 
 /**
  * reset_to_98 - Entry
- * @*n: variable as input
+ * @n: variable as input
  */
 
 void reset_to_98(int *n)
