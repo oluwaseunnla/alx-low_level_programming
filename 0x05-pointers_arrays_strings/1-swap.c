@@ -2,7 +2,7 @@
 
 /**
  * swap_int - Entry point
- * @a: first parameter\
+ * @a: first parameter
  * @b: second parameter
  */
 
