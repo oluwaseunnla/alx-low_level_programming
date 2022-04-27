@@ -4,7 +4,7 @@
  * _strspn - Entry point
  * @s: input
  * @accept: input
- * Returnn: Always 0
+ * Return: Always 0
  */
 
 unsigned int _strspn(char *s, char *accept)
