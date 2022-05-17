@@ -29,7 +29,7 @@ void print_float(va_list list)
 
 void print_char(va_list list)
 {
-	print("%c", va_arg(list, int));
+	printf("%c", va_arg(list, int));
 }
 
 /**
