@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * bmain - function
+ * bmain - function for me 
  * Return: no return.
  */
 
