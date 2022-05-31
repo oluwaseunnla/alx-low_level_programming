@@ -5,7 +5,7 @@
  * @n: The bit
  * @index: The index to the get the value
  *
- * Retuen: If an error occurs
+ * Return: If an error occurs
  */
 
 int get_bit(unsigned long int n, unsigned int index)
